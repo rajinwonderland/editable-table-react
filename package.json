@@ -3,10 +3,12 @@
   "description": null,
   "version": "0.0.25",
   "dependencies": {
-    "react-table": "6.5.3",
-    "react-dom": "15.5.3",
+    "@material-ui/core": "1.2.0",
+    "@material-ui/icons": "1.1.0",
+    "namor": "1.0.1",
     "react": "15.5.3",
-    "namor": "1.0.1"
+    "react-dom": "15.5.3",
+    "react-table": "6.5.3"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
